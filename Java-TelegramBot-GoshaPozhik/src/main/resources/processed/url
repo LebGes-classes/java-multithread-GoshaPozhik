@@ -1,0 +1,2000 @@
+<!DOCTYPE html>
+<html lang="ru" >
+<head>
+        <meta charset="utf-8">
+    <link rel="shortcut icon" href="https://www.online-convert.com/favicon.ico">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, user-scalable=yes">
+
+<link rel="preconnect" href="https://dragon.online-convert.com" crossorigin>
+<link rel="preconnect" href="https://stats.online-convert.com" crossorigin>
+
+<link rel="preload" href="https://www.online-convert.com/assets/dist/fonts/mem5YaGs126MiZpBA-UNirkOX-hpOqc.f784b6eb.woff2" as="font" type="font/woff2"
+      crossorigin="anonymous">
+<link rel="preload" href="https://www.online-convert.com/assets/dist/fonts/mem5YaGs126MiZpBA-UNirkOUuhv.7e06644b.woff" as="font" type="font/woff"
+      crossorigin="anonymous">
+<link rel="preload" href="https://www.online-convert.com/assets/dist/fonts/mem8YaGs126MiZpBA-UFVZ0d.347639ec.woff" as="font" type="font/woff"
+      crossorigin="anonymous">
+<link rel="preload" href="https://www.online-convert.com/assets/webfonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="https://www.online-convert.com/assets/webfonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="https://www.online-convert.com/assets/webfonts/fa-light-300.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="https://www.online-convert.com/assets/webfonts/fa-brands-400.woff" as="font" type="font/woff2" crossorigin="anonymous">
+
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "url": "https://www.online-convert.com/",
+            "logo":{
+                "@type":"ImageObject",
+                "url":"https://www.online-convert.com/assets/img/oc_logo_grey_font_like_sat.svg",
+                "width": "552",
+                "height": "72"
+            },
+                    "sameAs": [
+                "https://www.facebook.com/onlineconvert",
+                "https://twitter.com/onlineconvert"
+            ],
+        "description": "Конвертируйте видео, аудио, текстовые и другие файлы с помощью бесплатного и быстрого онлайн конвертера.",
+            "name": "Online-Convert",
+            "legalName": "QaamGo Media GmbH",
+            "contactPoint": {
+                "contactType": "customer support",
+                "email": "time2help@online-convert.com",
+                "url": "https://www.online-convert.com/ru/help"
+            }
+        }
+    </script>
+
+    <title>Файлы URL: что нужно знать о таких файлах?</title>
+    <meta name="description" content="Узнайте больше о том, почему URL - это не только адрес в Интернете, но еще и формат файла.">
+    <meta name="keywords" content="URL, расширение файла URL, преобразование URL, конвертировать URL, файлы URL">
+                <link rel="canonical" href="https://www.online-convert.com/ru/file-format/url">
+    
+                                                                                                                        <link rel="alternate" hreflang="x-default" href="https://www.online-convert.com/file-format/url">
+                                                <link rel="alternate" hreflang="en" href="https://www.online-convert.com/file-format/url">
+                                                                                                        <link rel="alternate" hreflang="de" href="https://www.online-convert.com/de/datei-format/url">
+                                                                                                        <link rel="alternate" hreflang="es" href="https://www.online-convert.com/es/formato-de-archivo/url">
+                                                                                                                                            <link rel="alternate" hreflang="fr" href="https://www.online-convert.com/fr/format-fichier/url">
+                                                                                                                                            <link rel="alternate" hreflang="ru" href="https://www.online-convert.com/ru/file-format/url">
+                                                                                                                                                                                                                                            
+    
+    <meta property="og:title" content="Файлы URL: что нужно знать о таких файлах?">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.online-convert.com/ru/file-format/url">
+    <meta property="og:site_name" content="online-convert.com">
+    <meta property="og:description" content="Узнайте больше о том, почему URL - это не только адрес в Интернете, но еще и формат файла.">
+    <meta property="og:image" content="https://www.online-convert.com/assets/social-share-image/ru/www-online-convert-com-ru-file-format-url.png">
+
+        <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@onlineconvert">
+    <meta name="twitter:creator" content="@onlineconvert">
+    <meta name="twitter:title" content="Файлы URL: что нужно знать о таких файлах?">
+    <meta name="twitter:description" content="Узнайте больше о том, почему URL - это не только адрес в Интернете, но еще и формат файла.">
+    <meta name="twitter:image:src" content="https://www.online-convert.com/assets/social-share-image/ru/www-online-convert-com-ru-file-format-url.png">
+
+        <link rel="apple-touch-icon" sizes="180x180" href="https://www.online-convert.com/assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.online-convert.com/assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://www.online-convert.com/assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="https://www.online-convert.com/assets/favicon/site.webmanifest">
+    <link rel="mask-icon" href="https://www.online-convert.com/assets/favicon/safari-pinned-tab.svg" color="#00796B">
+    <meta name="msapplication-TileColor" content="#00796B">
+    <meta name="application-name" content="Online-Convert">
+    <meta name="msapplication-config" content="https://www.online-convert.com/assets/favicon/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+                                                                                    <link rel="stylesheet" href="https://www.online-convert.com/assets/dist/8801.5262c500.css">
+                                                                                                        <link rel="stylesheet" href="https://www.online-convert.com/assets/dist/qg-knowledge.d5cda6ea.css">
+                                    <script>
+                    </script>
+</head>
+<body class="lang-ru"   >
+
+
+    <div id="userNotifications">
+</div>
+
+
+<script>
+    function getCookieValue(name) {
+        try {
+            name = name.toLowerCase();
+            var rawCookieString = document.cookie;
+
+            var parts = rawCookieString.split(';');
+
+            for (var i = 0; i < parts.length; i++) {
+                var p = parts[i].split('=');
+
+                if (p.length === 2) {
+                    var key = p[0].trim().toLowerCase();
+                    var value = p[1].trim();
+
+                    if (key === name) {
+                        return value;
+                    }
+                }
+            }
+        } catch (e) {
+
+        }
+
+        return null;
+    }
+
+
+    function isMobileAdSite() {
+        if (navigator.connection && navigator.connection.effectiveType) {
+            if (navigator.connection.effectiveType === '4g') {
+                satConnectionType = 'fast';
+                return false;
+            } else {
+                satConnectionType = 'slow';
+                return true;
+            }
+        }
+        return false;
+    }
+
+    
+
+    function handleUserNotifications() {
+        const encoded = window.sessionStorage.getItem('__SESSION_STORAGE_USER__');
+
+        if (encoded === null) {
+            return;
+        }
+
+        /** @type {MeData} */
+        const storageUser = JSON.parse(encoded);
+
+        if (!Array.isArray(storageUser?.roles)) {
+            return;
+        }
+
+        const shouldHideEduClaimBanner = window.sat.project_name === 'API2Convert' || getCookieValue('user-edu-claim-banner-dismiss');
+
+                if (
+            !shouldHideEduClaimBanner &&
+            storageUser.enabled &&
+            storageUser.roles.includes('ROLE_USER_ELIGIBLE_FOR_EDUCATIONAL') &&
+            !storageUser.roles.includes('ROLE_USER_EDUCATIONAL') &&
+            !storageUser.roles.includes('ROLE_USER_NEEDS_VERIFICATION_FOR_EDUCATIONAL')
+        ) {
+            const eduEl = document.getElementById('user-edu-banner');
+
+            if (eduEl !== null) {
+                eduEl.classList.remove('d-none');
+            }
+        }
+    }
+
+    try {
+        handleUserNotifications();
+    } catch (e) {}
+</script>
+
+    
+<div id="header" class="w-100 bg-white z-index-3 position-relative header-height-60"
+    >
+    <div class="px-4 pl-4 pt-0 h-100">
+        <div class="d-flex justify-content-between h-100">
+            <nav class="navbar d-flex z-index-2 px-0 py-0 position-static h-100 justify-content-between flex-grow-md-0">
+                                <div class="d-flex h-100 align-items-center pl-1 md-pl-4">
+                                            <a class="navbar-brand pr-4 d-flex justify-content-start mr-0"
+                            href="https://www.online-convert.com/ru"
+                            title="Бесплатный онлайн-конвертер"
+                        >
+                            <img src="https://www.online-convert.com/assets/img/oc_logo_grey_font_like_sat.svg"
+                                width="276"
+                                height="36"
+                                alt="Online-Convert.com"
+                                class="header-logo-responsive d-none d-sm-block"
+                            >
+                            <img src="https://www.online-convert.com/favicon.ico"
+                                alt="Online-Convert.com"
+                                class="icon-30 d-sm-none"
+                            >
+                        </a>
+                                    </div>
+
+                                <ul class="list-unstyled mx-0 mb-0 d-flex h-100">
+                                                                                                        <li class="dropdown position-static no-sm-border all-tools-menu d-flex">
+                            <a class="bg-white pl-md-4 pr-md-4 dropdown-toggle z-index-2 d-flex align-items-center fg-normal fg-main-hover fg-main-dropdown-show position-relative font-weight-bold"
+                                href="#"
+                                role="button"
+                                data-bs-toggle="dropdown"
+                                aria-haspopup="true"
+                                aria-expanded="false"
+                            >
+                                <i class="far fa-border-all pr-3 icon-large-mobile"></i>
+                                <span class="pr-3 hidden-mobile all-tools-menu-text-hide-responsive ">
+                                                                            Все инструменты
+                                                                    </span>
+
+                                <i class="fa fa-chevron-down menu-closed hidden-mobile"></i>
+                                <i class="fa fa-chevron-up menu-open hidden-mobile"></i>
+                            </a>
+
+                                                        <div class="z-index-1 dropdown-menu border w-100 position-absolute pt-3 nm-t-1">
+                                <div class="container">
+    <div class="row w-100 mx-0 ">
+                                                
+                                                                                        <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6">
+                        <div class="row">
+                            <a href="https://www.online-convert.com/ru"
+                                class="nav-title col-12 fg-normal-important font-weight-bold p-t-10 p-b-5"
+                            >Конвертер</a>
+
+                            <ul class="list-unstyled col-12 col-md-6 col-lg-6 col-xl-6 px-0">
+                                                                                                                                <li class="bg-main-1-hover br-8">
+                                    <a href="https://archive.online-convert.com/ru"
+                                        title="Конвертация файла архива"
+                                        class="fg-normal pd-1 px-3 d-flex align-items-center"
+                                    >
+                                        <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-1 p-2 fa fa-file-archive"></i>
+                                        Конвертер архивных файлов
+                                    </a>
+                                </li>
+
+                                
+                                                                                                                                                                                                <li class="bg-main-1-hover br-8">
+                                    <a href="https://audio.online-convert.com/ru"
+                                        title="Конвертация аудио-файлов"
+                                        class="fg-normal pd-1 px-3 d-flex align-items-center"
+                                    >
+                                        <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-1 p-2 fa fa-music"></i>
+                                        Аудио-конвертер
+                                    </a>
+                                </li>
+
+                                
+                                                                                                                                                                                                <li class="bg-main-1-hover br-8">
+                                    <a href="https://cad.online-convert.com/ru"
+                                        title="Преобразование CAD-файлов"
+                                        class="fg-normal pd-1 px-3 d-flex align-items-center"
+                                    >
+                                        <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-1 p-2 far fa-pencil-ruler"></i>
+                                        Конвертер CAD
+                                    </a>
+                                </li>
+
+                                
+                                                                                                                                                                                                <li class="bg-main-1-hover br-8">
+                                    <a href="https://device.online-convert.com/ru"
+                                        title="Конвертирование файлов для устройств"
+                                        class="fg-normal pd-1 px-3 d-flex align-items-center"
+                                    >
+                                        <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-1 p-2 fa fa-tablet-alt"></i>
+                                        Конвертер устройств
+                                    </a>
+                                </li>
+
+                                
+                                                                                                                                                                                                <li class="bg-main-1-hover br-8">
+                                    <a href="https://document.online-convert.com/ru"
+                                        title="Конвертирование файла документа"
+                                        class="fg-normal pd-1 px-3 d-flex align-items-center"
+                                    >
+                                        <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-1 p-2 fa fa-file-alt"></i>
+                                        Конвертер документов
+                                    </a>
+                                </li>
+
+                                
+                                                                                                                                                                                                <li class="bg-main-1-hover br-8">
+                                    <a href="https://ebook.online-convert.com/ru"
+                                        title="Конвертирование  файла эл. книги"
+                                        class="fg-normal pd-1 px-3 d-flex align-items-center"
+                                    >
+                                        <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-1 p-2 fa fa-books"></i>
+                                        Конвертер эл. книг
+                                    </a>
+                                </li>
+
+                                
+                                                                                            </ul>
+                            <ul class="list-unstyled col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 px-0">
+                                                                                                                                                                                                <li class="bg-main-2-hover br-8">
+                                    <a href="https://hash.online-convert.com/ru"
+                                        title="Он-лайн генерирование хешей"
+                                        class="fg-normal pd-1 px-3 d-flex align-items-center"
+                                    >
+                                        <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-2 p-2 fa fa-hashtag"></i>
+                                        Генератор хешей
+                                    </a>
+                                </li>
+
+                                
+                                                                                                                                                                                                <li class="bg-main-2-hover br-8">
+                                    <a href="https://image.online-convert.com/ru"
+                                        title="Конвертация файла изображения"
+                                        class="fg-normal pd-1 px-3 d-flex align-items-center"
+                                    >
+                                        <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-2 p-2 fa fa-camera-retro"></i>
+                                        Конвертер изображений
+                                    </a>
+                                </li>
+
+                                
+                                                                                                                                                                                                <li class="bg-main-2-hover br-8">
+                                    <a href="https://software.online-convert.com/ru"
+                                        title="Конвертирование файлов для программ"
+                                        class="fg-normal pd-1 px-3 d-flex align-items-center"
+                                    >
+                                        <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-2 p-2 fa fa-computer-classic"></i>
+                                        Конвертер программ
+                                    </a>
+                                </li>
+
+                                
+                                                                                                                                                                                                <li class="bg-main-2-hover br-8">
+                                    <a href="https://video.online-convert.com/ru"
+                                        title="Конвертация видеофайлов"
+                                        class="fg-normal pd-1 px-3 d-flex align-items-center"
+                                    >
+                                        <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-2 p-2 fa fa-film"></i>
+                                        Видео-конвертер
+                                    </a>
+                                </li>
+
+                                
+                                                                                                                                                                                                <li class="bg-main-2-hover br-8">
+                                    <a href="https://webservice.online-convert.com/ru"
+                                        title="Конвертирование файлов для веб-сервисов"
+                                        class="fg-normal pd-1 px-3 d-flex align-items-center"
+                                    >
+                                        <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-2 p-2 fa fa-globe"></i>
+                                        Конвертер веб-сервисов
+                                    </a>
+                                </li>
+
+                                                                    <li><div class="mb-1 mt-3" style="    color: #388e3c; font-size:16px;">Инструменты на базе ИИ</div></li>
+                                    <li class="br-8 bg-main-1-hover">
+                                        <a href="https://www.online-convert.com/ru/ai-creator-studio"
+                                           title="Текст в изображение"
+                                           class="font-weight-bold fg-normal pd-1 px-3 d-flex align-items-center"
+                                        >
+                                            <span class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-3 text-white p-2"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M15 8h.01M10 21H6a3 3 0 0 1-3-3V6a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3v5"></path><path d="m3 16l5-5c.928-.893 2.072-.893 3 0l1 1m2 9v-4a2 2 0 1 1 4 0v4m-4-2h4m3-4v6"></path></g></svg></span>
+                                            AI Creator Studio <span class="ml-1 badge badge-danger">POPULAR</span>
+                                        </a>
+                                    </li>
+                                
+                                                                                                                                                            </ul>
+                        </div>
+                    </div>
+                                                                                                                                                                                                                                    
+                                                                    <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6">
+                    <div class="row">
+                        
+                        <ul class="list-unstyled col-12 col-md-6 col-lg-6 col-xl-6 px-0 ">
+                                                                                                                                                                                                    <li class="mb-2">
+                                <ul class="list-unstyled">
+
+                                    <li class="pl-1">
+                                        <a href="https://www.online-convert.com/ru/capture-website"
+                                            title=""
+                                            class="text-indent-0 d-block fg-normal-important font-weight-bold pd-1 p-b-5"
+                                        >
+                                            Онлайн-инструменты для создания скриншотов
+                                        </a>
+                                    </li>
+                                                                                                                    
+                                        <li class="bg-main-3-hover br-8">
+                                            <a href="https://www.online-convert.com/ru/capture-website/save-website-as-pdf"
+                                                title="Сохранить сайт как PDF"
+                                                class="fg-normal pd-1 d-flex align-items-center"
+                                            >
+                                                <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-3 p-2 far fa-file-pdf"></i>
+                                                Сохранить сайт как PDF
+                                            </a>
+                                        </li>
+                                                                                                                    
+                                        <li class="bg-main-3-hover br-8">
+                                            <a href="https://www.online-convert.com/ru/capture-website/screenshot-website-as-jpg"
+                                                title="Сохранить сайт в формате JPG"
+                                                class="fg-normal pd-1 d-flex align-items-center"
+                                            >
+                                                <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-3 p-2 far fa-file-image"></i>
+                                                Скриншот веб-сайта в формате JPG
+                                            </a>
+                                        </li>
+                                                                                                                    
+                                        <li class="bg-main-3-hover br-8">
+                                            <a href="https://www.online-convert.com/ru/capture-website/screenshot-website-as-png"
+                                                title="Сохранить веб-сайт в формате PNG"
+                                                class="fg-normal pd-1 d-flex align-items-center"
+                                            >
+                                                <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-3 p-2 far fa-file-image"></i>
+                                                Скриншот сайта в формате PNG
+                                            </a>
+                                        </li>
+                                                                                                                    
+                                        <li class="bg-main-3-hover br-8">
+                                            <a href="https://www.online-convert.com/ru/capture-website/screenshot-website-as-tiff"
+                                                title="Скриншот веб-сайта в формате TIFF"
+                                                class="fg-normal pd-1 d-flex align-items-center"
+                                            >
+                                                <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-3 p-2 far fa-file-image"></i>
+                                                Скриншот веб-сайта в формате TIFF
+                                            </a>
+                                        </li>
+                                                                    </ul>
+                            </li>
+                            
+                                                                                                                                                                        <li class="mb-2">
+                                <ul class="list-unstyled">
+
+                                    <li class="pl-1">
+                                        <a href="https://www.online-convert.com/ru/document-compressor"
+                                            title=""
+                                            class="text-indent-0 d-block fg-normal-important font-weight-bold pd-1 p-b-5"
+                                        >
+                                            Сжимайте файлы документов
+                                        </a>
+                                    </li>
+                                                                                                                    
+                                        <li class="bg-main-3-hover br-8">
+                                            <a href="https://www.online-convert.com/ru/document-compressor/compress-pdf"
+                                                title="Сжатие PDF"
+                                                class="fg-normal pd-1 d-flex align-items-center"
+                                            >
+                                                <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-3 p-2 far fa-compress-arrows-alt"></i>
+                                                Сжатие PDF
+                                            </a>
+                                        </li>
+                                                                    </ul>
+                            </li>
+                            
+                                                                                                                                        </ul>
+                        <ul class="list-unstyled col-12 col-md-6 col-lg-6 col-xl-6 px-0">
+                                                                                    <li class="mb-2">
+                                <ul class="list-unstyled">
+
+                                    <li class="pl-1">
+                                        <a href="https://www.online-convert.com/ru/image-compressor"
+                                            title=""
+                                            class="text-indent-0 d-block fg-normal-important font-weight-bold pd-1 p-b-5"
+                                        >
+                                            Сжимайте файлы изображений
+                                        </a>
+                                    </li>
+                                                                                                                    
+                                        <li class="bg-main-3-hover br-8">
+                                            <a href="https://www.online-convert.com/ru/image-compressor/compress-jpg"
+                                                title="Сжимайте JPG"
+                                                class="fg-normal pd-1 d-flex align-items-center"
+                                            >
+                                                <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-3 p-2 far fa-file-image"></i>
+                                                Сжимайте JPG
+                                            </a>
+                                        </li>
+                                                                                                                    
+                                        <li class="bg-main-3-hover br-8">
+                                            <a href="https://www.online-convert.com/ru/image-compressor/compress-png"
+                                                title="Сжимайте PNG"
+                                                class="fg-normal pd-1 d-flex align-items-center"
+                                            >
+                                                <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-3 p-2 far fa-file-image"></i>
+                                                Сжимайте PNG
+                                            </a>
+                                        </li>
+                                                                    </ul>
+                            </li>
+                            
+                                                                                                                                                                        <li class="mb-2">
+                                <ul class="list-unstyled">
+
+                                    <li class="pl-1">
+                                        <a href="https://www.online-convert.com/ru/video-compressor"
+                                            title=""
+                                            class="text-indent-0 d-block fg-normal-important font-weight-bold pd-1 p-b-5"
+                                        >
+                                            Сжимайте видеофайлы
+                                        </a>
+                                    </li>
+                                                                                                                    
+                                        <li class="bg-main-3-hover br-8">
+                                            <a href="https://www.online-convert.com/ru/video-compressor/compress-mp4"
+                                                title="Сжатие MP4"
+                                                class="fg-normal pd-1 d-flex align-items-center"
+                                            >
+                                                <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-3 p-2 far fa-film"></i>
+                                                Сжатие MP4
+                                            </a>
+                                        </li>
+                                                                    </ul>
+                            </li>
+                            
+                                                                                                                                                                        <li class="mb-2">
+                                <ul class="list-unstyled">
+
+                                    <li class="pl-1">
+                                        <a href="https://www.online-convert.com/ru/ocr"
+                                            title=""
+                                            class="text-indent-0 d-block fg-normal-important font-weight-bold pd-1 p-b-5"
+                                        >
+                                            Преобразование с помощью распознавания текста
+                                        </a>
+                                    </li>
+                                                                                                                    
+                                        <li class="bg-main-3-hover br-8">
+                                            <a href="https://www.online-convert.com/ru/ocr/image-to-text"
+                                                title="Преобразовать изображение в текст"
+                                                class="fg-normal pd-1 d-flex align-items-center"
+                                            >
+                                                <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-3 p-2 far fa-file-alt"></i>
+                                                Изображение в текст
+                                            </a>
+                                        </li>
+                                                                                                                    
+                                        <li class="bg-main-3-hover br-8">
+                                            <a href="https://www.online-convert.com/ru/ocr/pdf-to-word"
+                                                title="Конвертировать PDF в Word"
+                                                class="fg-normal pd-1 d-flex align-items-center"
+                                            >
+                                                <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-3 p-2 far fa-file-word"></i>
+                                                PDF в Word
+                                            </a>
+                                        </li>
+                                                                                                                    
+                                        <li class="bg-main-3-hover br-8">
+                                            <a href="https://www.online-convert.com/ru/ocr/scan-to-text"
+                                                title="Преобразовать сканирование в текст"
+                                                class="fg-normal pd-1 d-flex align-items-center"
+                                            >
+                                                <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-3 p-2 far fa-file-alt"></i>
+                                                Сканировать в текст
+                                            </a>
+                                        </li>
+                                                                    </ul>
+                            </li>
+                            
+                                                                                </ul>
+                    </div>
+                </div>
+                        </div>
+</div>
+                            </div>
+                        </li>
+                                        
+                                        
+                                        
+                                                        </ul>
+
+                                    <div class="h-100 align-items-center pl-3 ml-1 d-none d-xl-flex d-none">
+                        <a class="p-2 btn br-9 bg-info text-white font-weight-bold nav-link d-none d-md-inline-flex align-items-center gap-50" title="AI Creator Studio" href="https://www.online-convert.com/ru/ai-creator-studio">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M15 8h.01M10 21H6a3 3 0 0 1-3-3V6a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3v5"/><path d="m3 16l5-5c.928-.893 2.072-.893 3 0l1 1m2 9v-4a2 2 0 1 1 4 0v4m-4-2h4m3-4v6"/></g></svg>
+                            <div class="d-none d-lg-inline">
+                                AI Creator Studio
+                            </div>
+                        </a>
+                    </div>
+                            </nav>
+
+
+
+                        <nav class="navbar d-flex pr-0 pl-0 pt-0 pb-0 position-static h-100">
+                <div class="h-100 align-items-center px-3 d-none d-lg-flex content-links-hide-responsive">
+
+                                        <ul class="list-unstyled d-flex align-items-center mb-0 h-100">
+                                                    <li class="d-inline-block px-1 h-100">
+                                <a title="Купить"
+                                    href="https://www.online-convert.com/ru/pricing"
+                                    class="h-100 fg-normal fg-main-hover font-weight-bold d-flex flex-column align-items-center justify-content-center"
+                                >
+                                    <svg class="nav-shortcut-svg" width="20" height="20" viewBox="0 0 25 25" fill="currentColor" stroke="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M19.8027 3.5H14.4849C14.3195 3.49988 14.1609 3.56522 14.0435 3.68173L3.41229 14.313C3.17951 14.5469 3.04883 14.8635 3.04883 15.1935C3.04883 15.5235 3.17951 15.8401 3.41229 16.074L8.47479 21.1365C8.70872 21.3693 9.0253 21.5 9.35532 21.5C9.68533 21.5 10.0019 21.3693 10.2358 21.1365L20.8628 10.5096C20.9793 10.3923 21.0446 10.2336 21.0445 10.0683V4.74615C21.0453 4.58265 21.0138 4.4206 20.9517 4.26933C20.8896 4.11806 20.7982 3.98056 20.6828 3.86474C20.5674 3.74892 20.4302 3.65707 20.2792 3.59448C20.1281 3.53188 19.9662 3.49977 19.8027 3.5Z" fill="#FBFBFB" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                        <path d="M17.5853 8.34613C17.3114 8.34613 17.0437 8.26493 16.816 8.11279C16.5883 7.96064 16.4109 7.74439 16.3061 7.49139C16.2013 7.23838 16.1739 6.95998 16.2273 6.6914C16.2807 6.42281 16.4126 6.17609 16.6062 5.98245C16.7999 5.78881 17.0466 5.65694 17.3152 5.60351C17.5838 5.55008 17.8622 5.5775 18.1152 5.6823C18.3682 5.7871 18.5844 5.96457 18.7366 6.19227C18.8887 6.41997 18.9699 6.68767 18.9699 6.96152C18.9699 7.32874 18.824 7.68092 18.5644 7.94059C18.3047 8.20026 17.9525 8.34613 17.5853 8.34613Z" fill="black"/>
+                                    </svg>
+
+                                    Купить
+                                </a>
+                            </li>
+
+                            <li class="d-inline-block px-1">
+                                <a title="Справка"
+                                    href="https://www.online-convert.com/ru/help"
+                                    class="fg-normal fg-main-hover font-weight-bold d-flex flex-column align-items-center justify-content-between"
+                                >
+                                    <svg class="nav-shortcut-svg" width="19" height="19" viewBox="0 0 19 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M9.50383 14.9C9.81883 14.9 10.0852 14.7911 10.303 14.5733C10.5208 14.3555 10.6294 14.0894 10.6288 13.775C10.6288 13.46 10.5202 13.1936 10.303 12.9758C10.0858 12.758 9.81943 12.6494 9.50383 12.65C9.18883 12.65 8.92273 12.7589 8.70553 12.9767C8.48833 13.1945 8.37943 13.4606 8.37883 13.775C8.37883 14.09 8.48773 14.3564 8.70553 14.5742C8.92333 14.792 9.18943 14.9006 9.50383 14.9ZM8.69383 11.435H10.3588C10.3588 10.94 10.4152 10.55 10.528 10.265C10.6408 9.98 10.9594 9.59 11.4838 9.095C11.8738 8.705 12.1813 8.3336 12.4063 7.9808C12.6313 7.628 12.7438 7.2044 12.7438 6.71C12.7438 5.87 12.4363 5.225 11.8213 4.775C11.2063 4.325 10.4788 4.1 9.63883 4.1C8.78383 4.1 8.08993 4.325 7.55713 4.775C7.02433 5.225 6.65323 5.765 6.44383 6.395L7.92883 6.98C8.00383 6.71 8.17273 6.4175 8.43553 6.1025C8.69833 5.7875 9.09943 5.63 9.63883 5.63C10.1188 5.63 10.4788 5.7614 10.7188 6.0242C10.9588 6.287 11.0788 6.5756 11.0788 6.89C11.0788 7.19 10.9888 7.4714 10.8088 7.7342C10.6288 7.997 10.4038 8.2406 10.1338 8.465C9.47383 9.05 9.06883 9.4925 8.91883 9.7925C8.76883 10.0925 8.69383 10.64 8.69383 11.435ZM9.54883 18.5C8.30383 18.5 7.13383 18.2636 6.03883 17.7908C4.94383 17.318 3.99133 16.6769 3.18133 15.8675C2.37133 15.0575 1.73023 14.105 1.25803 13.01C0.785828 11.915 0.549428 10.745 0.548828 9.5C0.548828 8.255 0.785228 7.085 1.25803 5.99C1.73083 4.895 2.37193 3.9425 3.18133 3.1325C3.99133 2.3225 4.94383 1.6814 6.03883 1.2092C7.13383 0.737 8.30383 0.5006 9.54883 0.5C10.7938 0.5 11.9638 0.7364 13.0588 1.2092C14.1538 1.682 15.1063 2.3231 15.9163 3.1325C16.7263 3.9425 17.3677 4.895 17.8405 5.99C18.3133 7.085 18.5494 8.255 18.5488 9.5C18.5488 10.745 18.3124 11.915 17.8396 13.01C17.3668 14.105 16.7257 15.0575 15.9163 15.8675C15.1063 16.6775 14.1538 17.3189 13.0588 17.7917C11.9638 18.2645 10.7938 18.5006 9.54883 18.5ZM9.54883 16.7C11.5588 16.7 13.2613 16.0025 14.6563 14.6075C16.0513 13.2125 16.7488 11.51 16.7488 9.5C16.7488 7.49 16.0513 5.7875 14.6563 4.3925C13.2613 2.9975 11.5588 2.3 9.54883 2.3C7.53883 2.3 5.83633 2.9975 4.44133 4.3925C3.04633 5.7875 2.34883 7.49 2.34883 9.5C2.34883 11.51 3.04633 13.2125 4.44133 14.6075C5.83633 16.0025 7.53883 16.7 9.54883 16.7Z" fill="currentColor"/>
+                                    </svg>
+
+                                    Справка
+                                </a>
+                            </li>
+                                            </ul>
+
+                                                        </div>
+                                
+                                
+                                
+                                                    <div class="h-100 d-none d-md-block">
+                        <div class="h-100 font-weight-bold pr-0 pl-0 ml-0">
+                                                            <div class="dropdown border-left d-none d-md-block h-100">
+                                    <a class="bg-white pr-4 pl-4 dropdown-toggle main-language-selector d-flex flex-column h-100 align-items-center justify-content-center fg-normal fg-main-hover fg-main-dropdown-show position-relative font-weight-bold"
+                                        href="#"
+                                        role="button"
+                                        aria-haspopup="true"
+                                        aria-expanded="false"
+                                    >
+                                    <svg class="nav-shortcut-svg" width="19" height="19" viewBox="0 0 19 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M9.54883 0.5C7.7688 0.5 6.02874 1.02784 4.5487 2.01677C3.06866 3.00571 1.9151 4.41131 1.23392 6.05585C0.552728 7.70038 0.374498 9.50998 0.721765 11.2558C1.06903 13.0016 1.9262 14.6053 3.18487 15.864C4.44354 17.1226 6.04719 17.9798 7.79302 18.3271C9.53885 18.6743 11.3484 18.4961 12.993 17.8149C14.6375 17.1337 16.0431 15.9802 17.0321 14.5001C18.021 13.0201 18.5488 11.28 18.5488 9.5C18.5463 7.11382 17.5973 4.8261 15.91 3.13882C14.2227 1.45154 11.935 0.50252 9.54883 0.5ZM7.26681 12.9615H11.8308C11.3661 14.5487 10.5873 15.9791 9.54883 17.1059C8.51037 15.9791 7.73152 14.5487 7.26681 12.9615ZM6.95268 11.5769C6.72306 10.2018 6.72306 8.79817 6.95268 7.42308H12.145C12.3746 8.79817 12.3746 10.2018 12.145 11.5769H6.95268ZM1.93345 9.5C1.93284 8.79768 2.02983 8.09869 2.22162 7.42308H5.54989C5.34335 8.79999 5.34335 10.2 5.54989 11.5769H2.22162C2.02983 10.9013 1.93284 10.2023 1.93345 9.5ZM11.8308 6.03846H7.26681C7.73152 4.45135 8.51037 3.02086 9.54883 1.89413C10.5873 3.02086 11.3661 4.45135 11.8308 6.03846ZM13.5478 7.42308H16.876C17.2603 8.78103 17.2603 10.219 16.876 11.5769H13.5478C13.7543 10.2 13.7543 8.79999 13.5478 7.42308ZM16.3308 6.03846H13.2648C12.9115 4.64823 12.3182 3.33036 11.5115 2.14423C12.5421 2.42117 13.5032 2.91072 14.3332 3.5814C15.1632 4.25208 15.8437 5.08904 16.3308 6.03846ZM7.58614 2.14423C6.77951 3.33036 6.18617 4.64823 5.83287 6.03846H2.76681C3.25396 5.08904 3.93441 4.25208 4.76442 3.5814C5.59442 2.91072 6.5556 2.42117 7.58614 2.14423ZM2.76681 12.9615H5.83287C6.18617 14.3518 6.77951 15.6696 7.58614 16.8558C6.5556 16.5788 5.59442 16.0893 4.76442 15.4186C3.93441 14.7479 3.25396 13.911 2.76681 12.9615ZM11.5115 16.8558C12.3182 15.6696 12.9115 14.3518 13.2648 12.9615H16.3308C15.8437 13.911 15.1632 14.7479 14.3332 15.4186C13.5032 16.0893 12.5421 16.5788 11.5115 16.8558Z" fill="currentColor"/>
+                                        </svg>
+                                        RU
+                                    </a>
+                                    <div class="main-language-dropdown dropdown-menu dropdown-menu-right dropdown-menu-hover w-100 bg-white p-3 border" style="z-index:-1; margin-top:-1px;">
+                                        <div class="pl-3 pr-3">
+                                            
+
+    
+<div class="row">
+    <div class="col-md-6 no-padding">
+        <ul class="list-unstyled no-margin w-100">
+                                                                                                            <li class="rounded cursor-pointer text-indent-05">
+                        <a class="pd-1 pr-2 d-block language-selector-link font-weight-normal"
+                           href="https://www.online-convert.com/file-format/url"
+                           title="Change language to English"
+                        >English</a>
+                    </li>
+
+                                                                                                                            <li class="rounded cursor-pointer text-indent-05">
+                        <a class="pd-1 pr-2 d-block language-selector-link font-weight-normal"
+                           href="https://www.online-convert.com/fr/format-fichier/url"
+                           title="Changer la langue vers le français"
+                        >Français</a>
+                    </li>
+
+                                                                                                                                                                                    <li class="rounded cursor-pointer text-indent-05">
+                        <a class="pd-1 pr-2 d-block language-selector-link font-weight-normal"
+                           href="https://www.online-convert.com/de/datei-format/url"
+                           title="Sprache zu Deutsch ändern"
+                        >Deutsch</a>
+                    </li>
+
+                                                                    </ul>
+                        </div>
+                        <div class="col-md-6 no-padding">
+                            <ul class="list-unstyled no-margin w-100">
+                                                                                                        <li class="rounded cursor-pointer text-indent-05">
+                        <a class="pd-1 pr-2 d-block language-selector-link font-weight-normal"
+                           href="https://www.online-convert.com/es/formato-de-archivo/url"
+                           title="Cambiar idioma a Español"
+                        >Español</a>
+                    </li>
+
+                                                                                                                                                        <li class="rounded cursor-pointer text-indent-05 active">
+                        <a class="pd-1 pr-2 d-block language-selector-link font-weight-normal font-weight-bold"
+                           href="https://www.online-convert.com/ru/file-format/url"
+                           title="Изменить язык на русский"
+                        >Pусский</a>
+                    </li>
+
+                                                                                                                                                                </ul>
+    </div>
+</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                    </div>
+                    </div>
+                                
+                                <div id="recent-tasks-placeholder-icon" class="h-100 d-none d-md-block">
+                    <div class="border-left h-100 font-weight-bold pr-0 pl-0 ml-0">
+                        <a
+                            class="bg-white pr-3 pl-3 dropdown-toggle d-flex flex-column h-100 align-items-center justify-content-center fg-normal fg-main-hover fg-main-dropdown-show position-relative font-weight-bold"
+                            href="#"
+                            role="button"
+                            aria-haspopup="true"
+                            aria-expanded="false"
+                        >
+                            <svg width="28" height="30" viewBox="0 0 28 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M25.0943 13.7864V5.45455C25.0943 4.73123 24.8069 4.03754 24.2955 3.52607C23.784 3.01461 23.0903 2.72727 22.367 2.72727H16.667C16.0943 1.14545 14.5943 0 12.8216 0C11.0488 0 9.54882 1.14545 8.9761 2.72727H3.2761C1.7761 2.72727 0.548828 3.95455 0.548828 5.45455V24.5455C0.548828 25.2688 0.836165 25.9625 1.34763 26.4739C1.85909 26.9854 2.55278 27.2727 3.2761 27.2727H11.6079C13.3261 28.9636 15.6715 30 18.2761 30C23.5534 30 27.8215 25.7318 27.8215 20.4545C27.8215 17.85 26.7852 15.5045 25.0943 13.7864ZM12.8216 2.72727C13.5715 2.72727 14.1852 3.34091 14.1852 4.09091C14.1852 4.84091 13.5715 5.45455 12.8216 5.45455C12.0716 5.45455 11.4579 4.84091 11.4579 4.09091C11.4579 3.34091 12.0716 2.72727 12.8216 2.72727ZM3.2761 24.5455V5.45455H6.00337V8.18182H19.6397V5.45455H22.367V11.8364C20.5883 10.9913 18.5916 10.7174 16.6511 11.0524C14.7105 11.3873 12.9212 12.3147 11.5287 13.7072C10.1362 15.0996 9.20888 16.889 8.87392 18.8295C8.53896 20.7701 8.81282 22.7668 9.65792 24.5455H3.2761ZM18.2761 27.2727C14.5125 27.2727 11.4579 24.2182 11.4579 20.4545C11.4579 16.6909 14.5125 13.6364 18.2761 13.6364C22.0397 13.6364 25.0943 16.6909 25.0943 20.4545C25.0943 24.2182 22.0397 27.2727 18.2761 27.2727ZM18.9579 20.7955L22.8579 23.1L21.8352 24.7636L16.9125 21.8182V15H18.9579V20.7955Z"
+                                    fill="#000"
+                                    fill-opacity="0.5"
+                                />
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+                <div id="RecentTasksDropdown" class="h-100"></div>
+                
+                                <div class="h-100 d-block main-user-block no-sm-border">
+                    <div class="h-100 font-weight-bold pr-0 pl-0 ml-0 main-user-block-space" style="padding:0; height:60px;">
+                        <div class="h-100 w-100 no-sm-border" id="UserButtons">
+                            
+                            <div class="aspect-outer" style="padding:0; height:60px; overflow:hidden">
+                                <div class="timeline-item aspect-inner">
+                                    <div class="animated-thumbnail-background animated-thumbnail-animation">
+                                        <div class="animated-thumbnail-masker header-top"></div>
+                                        <div class="animated-thumbnail-masker header-left"></div>
+                                        <div class="animated-thumbnail-masker header-right"></div>
+                                        <div class="animated-thumbnail-masker header-bottom"></div>
+                                        <div class="animated-thumbnail-masker subheader-left"></div>
+                                        <div class="animated-thumbnail-masker subheader-right"></div>
+                                        <div class="animated-thumbnail-masker subheader-bottom"></div>
+                                        <div class="animated-thumbnail-masker content-top"></div>
+                                        <div class="animated-thumbnail-masker content-first-end"></div>
+                                        <div class="animated-thumbnail-masker content-second-line"></div>
+                                        <div class="animated-thumbnail-masker content-second-end"></div>
+                                        <div class="animated-thumbnail-masker content-third-line"></div>
+                                        <div class="animated-thumbnail-masker content-third-end"></div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>
+</div>
+
+
+    <script>
+        window.UserButtonsConfig = JSON.parse('\u007B\u0022links\u0022\u003A\u007B\u0022register\u0022\u003A\u0022https\u003A\\\/\\\/www.online\u002Dconvert.com\\\/ru\\\/pricing\u0022,\u0022invoices\u0022\u003A\u0022https\u003A\\\/\\\/account.online\u002Dconvert.com\\\/ru\\\/user\\\/payment\\\/history\u0022,\u0022dashBoard\u0022\u003A\u0022https\u003A\\\/\\\/account.online\u002Dconvert.com\\\/ru\\\/user\\\/dashboard\u0022,\u0022social\u0022\u003A\u0022https\u003A\\\/\\\/account.online\u002Dconvert.com\\\/ru\\\/user\\\/social\u0022\u007D\u007D');
+    </script>
+
+<div id="post-header" class="post-header">
+    <div class="color-stripe row w-100 no-margin ">
+    <div class="bg-main-1"></div>
+    <div class="bg-main-2"></div>
+    <div class="bg-main-3"></div>
+    <div class="bg-main-4"></div>
+    <div class="bg-main-5"></div>
+    <div class="bg-main-6"></div>
+    <div class="bg-main-7"></div>
+    <div class="bg-main-8"></div>
+</div>
+</div>
+
+
+
+    
+            
+
+    <script>
+        var satConnectionType = 'unknown';
+        function isMobileAdSite() {
+            if (navigator.connection && navigator.connection.effectiveType) {
+                if (navigator.connection.effectiveType === '4g') {
+                    satConnectionType = 'fast';
+                    return false;
+                } else {
+                    satConnectionType = 'slow';
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        function getCookieValue(name) {
+            try{
+                name = name.toLowerCase();
+                var rawCookieString = document.cookie;
+
+                var parts = rawCookieString.split(';');
+
+                for (var i = 0; i < parts.length; i++) {
+                    var p = parts[i].split('=');
+
+                    if (p.length === 2) {
+                        var key = p[0].trim().toLowerCase();
+                        var value = p[1].trim();
+
+                        if (key === name) {
+                            return value;
+                        }
+                    }
+                }
+            } catch (e) {
+
+            }
+
+            return null;
+        }
+
+        if (getCookieValue('qgrole') !== 'premium' && isMobileAdSite() === false && sessionStorage.getItem('PLAYWRIGHT') !== 'true') {
+                        !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+            
+            var script = document.createElement("script");
+            script.src = "https://securepubads.g.doubleclick.net/tag/js/gpt.js";
+            script.setAttribute('async', true);
+            document.body.appendChild(script);
+        }
+
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+
+                        googletag.cmd.push(function() {
+            if (typeof pbjs !== 'undefined') {
+                googletag.pubads().disableInitialLoad();
+
+                                googletag.pubads().setTargeting('is_production', 'true');
+                            }
+        });
+        
+
+                window.qgadconfig = function() {
+            var applyPostConversionPrefix = false;
+
+            
+            var useAmazon = false;
+
+                        useAmazon = true;
+            
+            var amazonId = null;
+
+                        amazonId = '4be57fd2-b69c-4a8c-9cc8-75419e7863b4';
+            
+            var headerBidding = false;
+
+                        headerBidding = true;
+            
+            var headerBiddingData = {};
+
+            
+                        headerBiddingData['APPNEXUS'] = [];
+                                    headerBiddingData['CRITEO'] = [];
+                                    headerBiddingData['SOVRN'] = [];
+                                                headerBiddingData['SOVRN'].push({id: '539981', size: [160, 600]});
+                                                headerBiddingData['SOVRN'].push({id: '540016', size: [300, 250]});
+                                                headerBiddingData['SOVRN'].push({id: '540018', size: [320, 50]});
+                                                headerBiddingData['SOVRN'].push({id: '540017', size: [728, 90]});
+                        
+             
+            return {
+                applyPostConversionPrefix: applyPostConversionPrefix,
+                useAmazon: useAmazon,
+                headerBidding: headerBidding,
+                headerBiddingData: headerBiddingData,
+                amazonId: amazonId
+            }
+        };
+
+                window.qgaddata = function() {
+            var data = [];
+            var sizeMappings;
+            var customChannel;
+            var supportedSizes;
+            var slotName;
+
+            
+                                                                                slotName = '/3218586/format_description_300x250';
+
+                    sizeMappings = [];
+                                        sizeMappings.push({browser: [1000, 200], sizes:[[728, 90],[980, 90],[970, 90]]});
+                                        sizeMappings.push({browser: [990, 200], sizes:[[728, 90],[970, 90]]});
+                                        sizeMappings.push({browser: [748, 200], sizes:[[728, 90],[468, 60]]});
+                                        sizeMappings.push({browser: [488, 200], sizes:[[468, 60],[320, 50],[300, 50]]});
+                                        sizeMappings.push({browser: [340, 200], sizes:[[320, 50],[300, 50]]});
+                                        sizeMappings.push({browser: [320, 200], sizes:[[320, 50],[234, 60]]});
+                                        sizeMappings.push({browser: [0, 0], sizes:[[234, 60]]});
+                    
+                                                            customChannel = null;
+                    
+                    supportedSizes = [[728, 90],[980, 90],[970, 90],[468, 60],[320, 50],[300, 50],[234, 60]];
+
+                    data.push({
+                        slot: slotName,
+                        sizeMappings: sizeMappings,
+                        customChannel: customChannel,
+                        container: 'format_description_300x250',
+                        supportedSizes: supportedSizes,
+                    });
+                                                                                                            slotName = '/3218586/format_description_flex';
+
+                    sizeMappings = [];
+                                        sizeMappings.push({browser: [1000, 200], sizes:[[728, 90],[970, 250],[980, 90],[970, 90]]});
+                                        sizeMappings.push({browser: [990, 200], sizes:[[728, 90],[970, 90]]});
+                                        sizeMappings.push({browser: [748, 200], sizes:[[728, 90],[468, 60]]});
+                                        sizeMappings.push({browser: [488, 200], sizes:[[468, 60],[336, 280],[320, 50],[300, 250],[300, 100],[300, 50],[200, 200]]});
+                                        sizeMappings.push({browser: [356, 200], sizes:[[336, 280],[320, 50],[300, 250],[300, 100],[300, 50],[200, 200]]});
+                                        sizeMappings.push({browser: [320, 200], sizes:[[300, 100],[300, 50],[300, 250],[200, 200],[234, 60]]});
+                                        sizeMappings.push({browser: [0, 0], sizes:[[200, 200],[234, 60]]});
+                    
+                                                            customChannel = null;
+                    
+                    supportedSizes = [[728, 90],[970, 250],[980, 90],[970, 90],[468, 60],[336, 280],[320, 50],[300, 250],[300, 100],[300, 50],[200, 200],[234, 60]];
+
+                    data.push({
+                        slot: slotName,
+                        sizeMappings: sizeMappings,
+                        customChannel: customChannel,
+                        container: 'format_description_flex',
+                        supportedSizes: supportedSizes,
+                    });
+                                         
+            return data;
+        }
+    </script>
+    
+    <main>
+        <div class="bg-white border-top border-bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="d-none d-sm-block">
+                            <ul class="list-unstyled breadcrumbs-one">
+        <li>
+            <a href="https://www.online-convert.com/ru"
+               title="Домой"
+            >
+                <i class="fa fa-home"></i>
+            </a>
+        </li>
+                                    <li>
+                    <a
+                            href="https://www.online-convert.com/ru/file-type"
+                            title="Список форматов файлов"
+                    >
+                        Список форматов файлов
+                    </a>
+                </li>
+                                                <li>
+                    <a
+                            href="https://www.online-convert.com/ru/file-format/url"
+                            title="Файлы URL: что нужно знать о таких файлах?"
+                    >
+                        Файлы URL: что нужно знать о таких файлах?
+                    </a>
+                </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="file-format-page">
+            <div class="container text-center pt-4">
+                <h1 class="mt-0">URL - Internet shortcut file</h1>
+            </div>
+
+            <div class="advertising advertising-banner hidden">
+                
+            <div id='format_description_300x250'>
+    <script>
+        if (!Array.prototype.forEach) {
+            Array.prototype.forEach = function (callback, thisArg) {
+                thisArg = thisArg || window;
+                for (var i = 0; i < this.length; i++) {
+                    callback.call(thisArg, this[i], i, this);
+                }
+            };
+        }
+
+        if (getCookieValue('qgrole') !== 'premium' && isMobileAdSite() === false && sessionStorage.getItem('PLAYWRIGHT') !== 'true') {
+            var items = document.querySelectorAll('.advertising');
+
+            [].forEach.call(items, function(el) {
+                el.classList.remove("hidden");
+                if (el.parentElement.classList.contains('advertising-wrapper')) {
+                                                            el.parentElement.classList.remove('hidden');
+                }
+
+                                            });
+
+                              }
+</script>
+</div>
+            </div>
+
+            <div class="container pt-3 pb-3">
+                <div class="row">
+                    <div class="col-lg-7 col-md-7">
+                        <article class="card overflow-hidden p-0 border-0 mb-3 br-8">
+                            <div class="card-body">
+                                                                    <h2 class="mt-0">Что такое файл URL</h2>
+
+                                                                            <p>URL - это унифицированный путь ресурса, который указывает на Интернет-адрес определенных данных или информации. Файлы с таким расширением обычно на компьютерах не содержатся. Чтобы просмотреть содержимое файла URL, можно воспользоваться текстовым редактором, который позволяет передать файл из браузера в открытое окно текстового редактора. При этом такие файлы подвержены высокому риску заражения, поэтому их следует регулярно сканировать и загружать с осторожностью. Microsoft Internet Explorer, Mozilla Firefox, Opera, Apple Safari и другие веб-браузеры могут получать доступ к информации о таких файлах и использовать такую информацию. Файлами URL можно делиться, однако отправка ссылок с помощью текстовых средств или гиперссылок происходит гораздо чаще.</p>
+                                                                            <p>При перетаскивании URL-адреса из веб-браузера на рабочий стол компьютера создается файл URL-адреса - даже в том случае, если такой файл обычно не имеет расширения URL-адреса. После нажатия на такой файл браузер по умолчанию откроет соответствующий адрес в Интернете, который связан с файлом. Однако содержимое таких файлов можно просматривать только в программе редактирования текста. Рядом с адресом веб-страниц, к которому относится файл, в файлах URL может содержаться такая информация как значок, путь к значку и дата.</p>
+                                                                    
+                                                                    <p>
+                                        Вот небольшой, но неполный список программ, которые могут открывать документы URL
+                                        :
+                                    </p>
+
+                                    <ul>
+                                                                                    <li>Apple Safari</li>
+                                                                                    <li>Google Chrome</li>
+                                                                                    <li>Microsoft Internet Explorer</li>
+                                                                                    <li>Microsoft Word</li>
+                                                                                    <li>Mozilla Firefox</li>
+                                                                                    <li>Notepad </li>
+                                                                                    <li>Opera</li>
+                                                                            </ul>
+                                                            </div>
+                        </article>
+                    </div><!-- /.blog-post -->
+
+                    <div class="col-lg-5 col-md-5">
+                        <div class="card mb-3 br-8">
+                            <div class="card-header font-weight-bold">О нас</div>
+                            <div class="card-body no-border p-0">
+                                <table class="table table-borderless mb-0" style="font-size:1em;table-layout: fixed;">
+                                    <tbody>
+                                    <tr>
+                                        <td>Расширение</td>
+                                        <td style="width:70%;">URL</td>
+                                    </tr>
+
+                                                                            <tr>
+                                            <td>MIME-тип</td>
+                                            <td class="text-break">wwwserver/redirection, application/internet-shortcut, application/x-url, message/external-body, text/url, text/x-url</td>
+                                        </tr>
+                                    
+                                                                            <tr>
+                                            <td>Полезные ссылки</td>
+                                            <td class="text-break">
+                                                <ul class="list-unstyled mb-0">
+                                                                                                            <li><a href="https://en.wikipedia.org/wiki/File_shortcut">Дополнительная информация о ярлыках файлов типа URL</a>
+                                                        </li>
+                                                                                                    </ul>
+                                            </td>
+                                        </tr>
+                                    
+                                                                        </tbody>
+                                </table>
+                            </div>
+                        </div>
+
+                        
+                                                
+                        
+                                            </div>
+                </div>
+                                                            </div>
+        </div><!-- /.row -->
+    </main><!-- /.container -->
+    <div class="content-breaker pb-0 m-0">
+    <div class="color-stripe row w-100 no-margin m-0">
+    <div class="bg-main-1"></div>
+    <div class="bg-main-2"></div>
+    <div class="bg-main-3"></div>
+    <div class="bg-main-4"></div>
+    <div class="bg-main-5"></div>
+    <div class="bg-main-6"></div>
+    <div class="bg-main-7"></div>
+    <div class="bg-main-8"></div>
+</div>
+
+    
+    <div class="container mt-0 py-5 mb-0">
+        <div class="mx-0 ">
+            <div class="extension-container no-padding">
+                <div class="d-flex flex-row flex-wrap justify-content-center align-items-center">
+                                            <a class="extension-link-chrome no-border mr-2" href="https://chrome.google.com/webstore/detail/file-converter-by-online/dicgkflojhbopmagcacdklcpdfdcnhko"
+                           target="_blank"
+                           rel="noopener">
+                            <div class="d-flex flex-column justify-content-center align-items-center border br-4 p-2">
+
+                                <img alt="Расширение Online-Convert для Chrome"
+                                     src="https://www.online-convert.com/assets/img/ChromeWebStore_Badge.svg">
+
+
+                                <div class="mt-2 d-flex flex-row justify-content-center align-items-center"
+                                     style="color:#ccc">
+                                    <div class="d-flex flex-row mr-1">
+                                        <i class="fa star fas font-orange fa-star"></i>
+                                        <i class="fa star fas font-orange fa-star"></i>
+                                        <i class="fa star fas font-orange fa-star"></i>
+                                        <i class="fa star fas font-orange fa-star"></i>
+                                    </div>
+
+                                                                                                                                                    <span class="text-normal"> 300,000+ пользователей</span>
+                                </div>
+                            </div>
+                        </a>
+                                                                <a class="extension-link-firefox" href="https://addons.mozilla.org/en-US/firefox/addon/online-convert/" target="_blank"
+                           rel="noopener">
+                            <div class="d-flex flex-column mr-2 justify-content-center align-items-center border br-4 p-2">
+                                <img alt="Расширение Online-Convert для Firefox"
+                                     src="https://www.online-convert.com/assets/img/FirefoxWebStore_Badge.png">
+
+
+                                <div class="mt-2 d-flex flex-row justify-content-center align-items-center"
+                                     style="color:#ccc">
+                                    <div class="d-flex flex-row">
+                                        <i class="fa star fas font-orange fa-star"></i>
+                                        <i class="fa star fas font-orange fa-star"></i>
+                                        <i class="fa star fas font-orange fa-star"></i>
+                                        <i class="fa star fas font-orange fa-star"></i>
+                                    </div>
+
+                                                                                                                                                    <span class="text-normal ml-1"> 22,000+ пользователей</span>
+                                </div>
+                            </div>
+                        </a>
+                                                                            </div>
+            </div>
+            <div class="social-container">
+                <p class="hidden-sm hidden-xs">Оставайтесь на связи:</p>
+                <ul class="social-icons list-unstyled pull-right no-margin">
+                                    <li class="bookmark-container hidden-xs">
+        <a class="bookmark-btn" href="#" title="Добавить в закладки">
+            <i class="fa fa-star"></i> Закладка
+        </a>
+    </li>
+            <li class="fb-like-container">
+            <a href="#" class="fb-like-btn" title="Поставьте нам лайк на Facebook"
+               onclick="window.open('https://dragon.online-convert.com/api/facebook-like','fb_like_popup','width=500,height=250'); return false;">
+                <i class="fa fa-thumbs-up"></i> <span>Нравится</span> 106k
+            </a>
+        </li>
+                                                                                <li class="fb-like-container">
+            <a
+                    onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.online-convert.com%2Fru','popup','width=600,height=600'); return false;"
+                    data-rel="popup" rel="nofollow noreferrer" title="Поделиться на Facebook" role="button" href="#"
+                    aria-label="Поделиться на Facebook" class="fb-share-btn"><i class="fab fa-facebook"></i><span
+                        class="share_text text-capitalize">поделиться</span> <span
+                        class="share_count">2k</span></a>
+        </li>
+        <li class="twitter"><a
+                    onclick="window.open('https://twitter.com/intent/tweet?text=%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BA%D0%BE%D0%BD%D0%B2%D0%B5%D1%80%D1%82%D0%B5%D1%80%20%D0%B4%D0%BB%D1%8F%20%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%2C%20%D0%B0%D1%83%D0%B4%D0%B8%D0%BE%2C%20%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D0%B8%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D1%85%20%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2&amp;url=https%3A%2F%2Fwww.online-convert.com%2Fru','popup','width=600,height=600'); return false;"
+                    data-rel="popup" rel="nofollow noreferrer" title="Поделиться в Твиттере" role="button" href="#"
+                    aria-label="Поделиться в Твиттере"  class="twitter-share-btn"><i class="fab fa-twitter"></i><span
+                        class="share_text text-capitalize">твитнуть</span></a>
+        </li>
+        <li class="clearfix"></li>
+</ul>
+            </div>
+            <span class="clearfix"></span>
+        </div>
+    </div>
+</div>
+
+
+    <div class="w-100 bg-main-1">
+    <div class="container font-size-125 text-white py-3 d-flex justify-content-center align-items-center gap-10">
+    <div><strong>AI Art Generator</strong> Раскройте свой творческий потенциал с помощью AI Creator Studio и превращайте ваши тексты в настоящие произведения искусства.</div>
+    <div><a class="btn btn-outline-light" href="https://www.online-convert.com/ru/ai-creator-studio">Попробовать сейчас</a></div>
+</div>
+</div>
+
+<footer class="pre-footer pt-3 pb-3">
+    <div class="d-flex justify-content-center">
+    <div class="container">
+    <div class="row w-100 mx-0 ">
+                                                
+                                                                                        <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6">
+                        <div class="row">
+                            <a href="https://www.online-convert.com/ru"
+                                class="nav-title col-12 m-0 px-0 fg-main-1-important"
+                            >Конвертер</a>
+
+                            <ul class="list-unstyled col-12 col-md-6 col-lg-6 col-xl-6 px-0">
+                                                                                                                                <li class="bg-main-1-hover br-8">
+                                    <a href="https://archive.online-convert.com/ru"
+                                        title="Конвертация файла архива"
+                                        class="fg-normal pd-1 px-1 d-flex align-items-center"
+                                    >
+                                        <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-1 p-2 fa fa-file-archive"></i>
+                                        Конвертер архивных файлов
+                                    </a>
+                                </li>
+
+                                
+                                                                                                                                                                                                <li class="bg-main-1-hover br-8">
+                                    <a href="https://audio.online-convert.com/ru"
+                                        title="Конвертация аудио-файлов"
+                                        class="fg-normal pd-1 px-1 d-flex align-items-center"
+                                    >
+                                        <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-1 p-2 fa fa-music"></i>
+                                        Аудио-конвертер
+                                    </a>
+                                </li>
+
+                                
+                                                                                                                                                                                                <li class="bg-main-1-hover br-8">
+                                    <a href="https://cad.online-convert.com/ru"
+                                        title="Преобразование CAD-файлов"
+                                        class="fg-normal pd-1 px-1 d-flex align-items-center"
+                                    >
+                                        <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-1 p-2 far fa-pencil-ruler"></i>
+                                        Конвертер CAD
+                                    </a>
+                                </li>
+
+                                
+                                                                                                                                                                                                <li class="bg-main-1-hover br-8">
+                                    <a href="https://device.online-convert.com/ru"
+                                        title="Конвертирование файлов для устройств"
+                                        class="fg-normal pd-1 px-1 d-flex align-items-center"
+                                    >
+                                        <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-1 p-2 fa fa-tablet-alt"></i>
+                                        Конвертер устройств
+                                    </a>
+                                </li>
+
+                                
+                                                                                                                                                                                                <li class="bg-main-1-hover br-8">
+                                    <a href="https://document.online-convert.com/ru"
+                                        title="Конвертирование файла документа"
+                                        class="fg-normal pd-1 px-1 d-flex align-items-center"
+                                    >
+                                        <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-1 p-2 fa fa-file-alt"></i>
+                                        Конвертер документов
+                                    </a>
+                                </li>
+
+                                
+                                                                                                                                                                                                <li class="bg-main-1-hover br-8">
+                                    <a href="https://ebook.online-convert.com/ru"
+                                        title="Конвертирование  файла эл. книги"
+                                        class="fg-normal pd-1 px-1 d-flex align-items-center"
+                                    >
+                                        <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-1 p-2 fa fa-books"></i>
+                                        Конвертер эл. книг
+                                    </a>
+                                </li>
+
+                                
+                                                                                            </ul>
+                            <ul class="list-unstyled col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 px-0">
+                                                                                                                                                                                                <li class="bg-main-2-hover br-8">
+                                    <a href="https://hash.online-convert.com/ru"
+                                        title="Он-лайн генерирование хешей"
+                                        class="fg-normal pd-1 px-1 d-flex align-items-center"
+                                    >
+                                        <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-2 p-2 fa fa-hashtag"></i>
+                                        Генератор хешей
+                                    </a>
+                                </li>
+
+                                
+                                                                                                                                                                                                <li class="bg-main-2-hover br-8">
+                                    <a href="https://image.online-convert.com/ru"
+                                        title="Конвертация файла изображения"
+                                        class="fg-normal pd-1 px-1 d-flex align-items-center"
+                                    >
+                                        <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-2 p-2 fa fa-camera-retro"></i>
+                                        Конвертер изображений
+                                    </a>
+                                </li>
+
+                                
+                                                                                                                                                                                                <li class="bg-main-2-hover br-8">
+                                    <a href="https://software.online-convert.com/ru"
+                                        title="Конвертирование файлов для программ"
+                                        class="fg-normal pd-1 px-1 d-flex align-items-center"
+                                    >
+                                        <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-2 p-2 fa fa-computer-classic"></i>
+                                        Конвертер программ
+                                    </a>
+                                </li>
+
+                                
+                                                                                                                                                                                                <li class="bg-main-2-hover br-8">
+                                    <a href="https://video.online-convert.com/ru"
+                                        title="Конвертация видеофайлов"
+                                        class="fg-normal pd-1 px-1 d-flex align-items-center"
+                                    >
+                                        <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-2 p-2 fa fa-film"></i>
+                                        Видео-конвертер
+                                    </a>
+                                </li>
+
+                                
+                                                                                                                                                                                                <li class="bg-main-2-hover br-8">
+                                    <a href="https://webservice.online-convert.com/ru"
+                                        title="Конвертирование файлов для веб-сервисов"
+                                        class="fg-normal pd-1 px-1 d-flex align-items-center"
+                                    >
+                                        <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-2 p-2 fa fa-globe"></i>
+                                        Конвертер веб-сервисов
+                                    </a>
+                                </li>
+
+                                                                    <li><div class="mb-1 mt-3" style="    color: #388e3c; font-size:16px;">Инструменты на базе ИИ</div></li>
+                                    <li class="br-8 bg-main-1-hover">
+                                        <a href="https://www.online-convert.com/ru/ai-creator-studio"
+                                           title="Текст в изображение"
+                                           class="font-weight-bold fg-normal pd-1 px-1 d-flex align-items-center"
+                                        >
+                                            <span class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-3 text-white p-2"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M15 8h.01M10 21H6a3 3 0 0 1-3-3V6a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3v5"></path><path d="m3 16l5-5c.928-.893 2.072-.893 3 0l1 1m2 9v-4a2 2 0 1 1 4 0v4m-4-2h4m3-4v6"></path></g></svg></span>
+                                            AI Creator Studio <span class="ml-1 badge badge-danger">POPULAR</span>
+                                        </a>
+                                    </li>
+                                
+                                                                                                                                                            </ul>
+                        </div>
+                    </div>
+                                                                                                                                                                                                                                    
+                                                                    <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6">
+                    <div class="row">
+                        
+                        <ul class="list-unstyled col-12 col-md-6 col-lg-6 col-xl-6 px-0 ">
+                                                                                                                                                                                                    <li class="mb-2">
+                                <ul class="list-unstyled">
+
+                                    <li class="pl-1">
+                                        <a href="https://www.online-convert.com/ru/capture-website"
+                                            title=""
+                                            class="text-indent-0 nav-title m-0 fg-main-3-important pl-0"
+                                        >
+                                            Онлайн-инструменты для создания скриншотов
+                                        </a>
+                                    </li>
+                                                                                                                    
+                                        <li class="bg-main-3-hover br-8">
+                                            <a href="https://www.online-convert.com/ru/capture-website/save-website-as-pdf"
+                                                title="Сохранить сайт как PDF"
+                                                class="fg-normal pd-1 d-flex align-items-center"
+                                            >
+                                                <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-3 p-2 far fa-file-pdf"></i>
+                                                Сохранить сайт как PDF
+                                            </a>
+                                        </li>
+                                                                                                                    
+                                        <li class="bg-main-3-hover br-8">
+                                            <a href="https://www.online-convert.com/ru/capture-website/screenshot-website-as-jpg"
+                                                title="Сохранить сайт в формате JPG"
+                                                class="fg-normal pd-1 d-flex align-items-center"
+                                            >
+                                                <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-3 p-2 far fa-file-image"></i>
+                                                Скриншот веб-сайта в формате JPG
+                                            </a>
+                                        </li>
+                                                                                                                    
+                                        <li class="bg-main-3-hover br-8">
+                                            <a href="https://www.online-convert.com/ru/capture-website/screenshot-website-as-png"
+                                                title="Сохранить веб-сайт в формате PNG"
+                                                class="fg-normal pd-1 d-flex align-items-center"
+                                            >
+                                                <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-3 p-2 far fa-file-image"></i>
+                                                Скриншот сайта в формате PNG
+                                            </a>
+                                        </li>
+                                                                                                                    
+                                        <li class="bg-main-3-hover br-8">
+                                            <a href="https://www.online-convert.com/ru/capture-website/screenshot-website-as-tiff"
+                                                title="Скриншот веб-сайта в формате TIFF"
+                                                class="fg-normal pd-1 d-flex align-items-center"
+                                            >
+                                                <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-3 p-2 far fa-file-image"></i>
+                                                Скриншот веб-сайта в формате TIFF
+                                            </a>
+                                        </li>
+                                                                    </ul>
+                            </li>
+                            
+                                                                                                                                                                        <li class="mb-2">
+                                <ul class="list-unstyled">
+
+                                    <li class="pl-1">
+                                        <a href="https://www.online-convert.com/ru/document-compressor"
+                                            title=""
+                                            class="text-indent-0 nav-title m-0 fg-main-3-important pl-0"
+                                        >
+                                            Сжимайте файлы документов
+                                        </a>
+                                    </li>
+                                                                                                                    
+                                        <li class="bg-main-3-hover br-8">
+                                            <a href="https://www.online-convert.com/ru/document-compressor/compress-pdf"
+                                                title="Сжатие PDF"
+                                                class="fg-normal pd-1 d-flex align-items-center"
+                                            >
+                                                <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-3 p-2 far fa-compress-arrows-alt"></i>
+                                                Сжатие PDF
+                                            </a>
+                                        </li>
+                                                                    </ul>
+                            </li>
+                            
+                                                                                                                                        </ul>
+                        <ul class="list-unstyled col-12 col-md-6 col-lg-6 col-xl-6 px-0">
+                                                                                    <li class="mb-2">
+                                <ul class="list-unstyled">
+
+                                    <li class="pl-1">
+                                        <a href="https://www.online-convert.com/ru/image-compressor"
+                                            title=""
+                                            class="text-indent-0 nav-title m-0 fg-main-3-important pl-0"
+                                        >
+                                            Сжимайте файлы изображений
+                                        </a>
+                                    </li>
+                                                                                                                    
+                                        <li class="bg-main-3-hover br-8">
+                                            <a href="https://www.online-convert.com/ru/image-compressor/compress-jpg"
+                                                title="Сжимайте JPG"
+                                                class="fg-normal pd-1 d-flex align-items-center"
+                                            >
+                                                <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-3 p-2 far fa-file-image"></i>
+                                                Сжимайте JPG
+                                            </a>
+                                        </li>
+                                                                                                                    
+                                        <li class="bg-main-3-hover br-8">
+                                            <a href="https://www.online-convert.com/ru/image-compressor/compress-png"
+                                                title="Сжимайте PNG"
+                                                class="fg-normal pd-1 d-flex align-items-center"
+                                            >
+                                                <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-3 p-2 far fa-file-image"></i>
+                                                Сжимайте PNG
+                                            </a>
+                                        </li>
+                                                                    </ul>
+                            </li>
+                            
+                                                                                                                                                                        <li class="mb-2">
+                                <ul class="list-unstyled">
+
+                                    <li class="pl-1">
+                                        <a href="https://www.online-convert.com/ru/video-compressor"
+                                            title=""
+                                            class="text-indent-0 nav-title m-0 fg-main-3-important pl-0"
+                                        >
+                                            Сжимайте видеофайлы
+                                        </a>
+                                    </li>
+                                                                                                                    
+                                        <li class="bg-main-3-hover br-8">
+                                            <a href="https://www.online-convert.com/ru/video-compressor/compress-mp4"
+                                                title="Сжатие MP4"
+                                                class="fg-normal pd-1 d-flex align-items-center"
+                                            >
+                                                <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-3 p-2 far fa-film"></i>
+                                                Сжатие MP4
+                                            </a>
+                                        </li>
+                                                                    </ul>
+                            </li>
+                            
+                                                                                                                                                                        <li class="mb-2">
+                                <ul class="list-unstyled">
+
+                                    <li class="pl-1">
+                                        <a href="https://www.online-convert.com/ru/ocr"
+                                            title=""
+                                            class="text-indent-0 nav-title m-0 fg-main-3-important pl-0"
+                                        >
+                                            Преобразование с помощью распознавания текста
+                                        </a>
+                                    </li>
+                                                                                                                    
+                                        <li class="bg-main-3-hover br-8">
+                                            <a href="https://www.online-convert.com/ru/ocr/image-to-text"
+                                                title="Преобразовать изображение в текст"
+                                                class="fg-normal pd-1 d-flex align-items-center"
+                                            >
+                                                <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-3 p-2 far fa-file-alt"></i>
+                                                Изображение в текст
+                                            </a>
+                                        </li>
+                                                                                                                    
+                                        <li class="bg-main-3-hover br-8">
+                                            <a href="https://www.online-convert.com/ru/ocr/pdf-to-word"
+                                                title="Конвертировать PDF в Word"
+                                                class="fg-normal pd-1 d-flex align-items-center"
+                                            >
+                                                <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-3 p-2 far fa-file-word"></i>
+                                                PDF в Word
+                                            </a>
+                                        </li>
+                                                                                                                    
+                                        <li class="bg-main-3-hover br-8">
+                                            <a href="https://www.online-convert.com/ru/ocr/scan-to-text"
+                                                title="Преобразовать сканирование в текст"
+                                                class="fg-normal pd-1 d-flex align-items-center"
+                                            >
+                                                <i class="icon-30 d-inline-flex flex-shrink-0 align-items-center justify-content-center mr-1 rounded fg-white bg-main-3 p-2 far fa-file-alt"></i>
+                                                Сканировать в текст
+                                            </a>
+                                        </li>
+                                                                    </ul>
+                            </li>
+                            
+                                                                                </ul>
+                    </div>
+                </div>
+                        </div>
+</div>
+    </div>
+</footer>
+
+    <footer class="">
+            <div class="pt-3 pb-3  border-top bg-white footer overflow-hidden text-center text-md-left">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-md-4">
+                        <div class="w-100">
+                            <img class="img-fluid" src="https://www.online-convert.com/assets/img/oc_logo_grey_font_like_sat.svg"
+                                 alt="Online-Convert.com"
+                                 width="359"
+                                 height="47">
+                            <p class="mt-3 text-muted">Никаких дополнительных программ.</p>
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-md-8 d-flex flex-column flex-sm-row justify-content-center justify-content-sm-around justify-content-md-between flex-wrap">
+                                                                                    <div class="px-3 mb-4">
+                                    <div class="font-weight-bold">Решения</div>
+                                    <ul class="list-unstyled text-small">
+
+                                                                                                                                    <li class="">
+                                                    <a class="link-secondary text-decoration-none"
+                                                       title="Образование"
+                                                       href="https://www.online-convert.com/ru/solution/education"
+                                                    >Образование</a>
+                                                </li>
+                                            
+                                        
+                                    </ul>
+                                </div>
+                                                            <div class="px-3 mb-4">
+                                    <div class="font-weight-bold">Online-Convert</div>
+                                    <ul class="list-unstyled text-small">
+
+                                                                                                                                    <li class="">
+                                                    <a class="link-secondary text-decoration-none"
+                                                       title="Справка"
+                                                       href="https://www.online-convert.com/ru/help"
+                                                    >Справка</a>
+                                                </li>
+                                            
+                                                                                                                                    <li class="">
+                                                    <a class="link-secondary text-decoration-none"
+                                                       title="Блог"
+                                                       href="https://blog.online-convert.com/"
+                                                    >Блог</a>
+                                                </li>
+                                            
+                                                                                                                                    <li class="">
+                                                    <a class="link-secondary text-decoration-none"
+                                                       title="Форматы файлов"
+                                                       href="https://www.online-convert.com/ru/file-type"
+                                                    >Форматы файлов</a>
+                                                </li>
+                                            
+                                                                                                                                    <li class="">
+                                                    <a class="link-secondary text-decoration-none"
+                                                       title="Запросы прессы"
+                                                       href="https://www.online-convert.com/ru/press"
+                                                    >Пресса</a>
+                                                </li>
+                                            
+                                                                                                                                    <li class="">
+                                                    <a class="link-secondary text-decoration-none"
+                                                       title="Статус"
+                                                       href="https://status.online-convert.com/"
+                                                    >Статус</a>
+                                                </li>
+                                            
+                                        
+                                    </ul>
+                                </div>
+                                                            <div class="px-3 mb-4">
+                                    <div class="font-weight-bold">Компания</div>
+                                    <ul class="list-unstyled text-small">
+
+                                                                                                                                    <li class="">
+                                                    <a class="link-secondary text-decoration-none"
+                                                       title="О нас"
+                                                       href="https://www.qaamgo.com/en/about"
+                                                    >О нас</a>
+                                                </li>
+                                            
+                                                                                                                                    <li class="">
+                                                    <a class="link-secondary text-decoration-none"
+                                                       title="Карьера"
+                                                       href="https://www.qaamgo.com/en/career"
+                                                    >Карьера</a>
+                                                </li>
+                                            
+                                                                                                                                    <li class="">
+                                                    <a class="link-secondary text-decoration-none"
+                                                       title="Устойчивость"
+                                                       href="https://www.online-convert.com/ru/sustainability"
+                                                    >Устойчивость</a>
+                                                </li>
+                                            
+                                                                                                                                    <li class="">
+                                                    <a class="link-secondary text-decoration-none"
+                                                       title="Безопасность"
+                                                       href="https://www.online-convert.com/ru/security"
+                                                    >Безопасность</a>
+                                                </li>
+                                            
+                                        
+                                    </ul>
+                                </div>
+                                                            <div class="px-3 ">
+                                    <div class="font-weight-bold">Продукт</div>
+                                    <ul class="list-unstyled text-small">
+
+                                                                                                                                    <li class="">
+                                                    <a class="link-secondary text-decoration-none"
+                                                       title="Купить"
+                                                       href="https://www.online-convert.com/ru/pricing"
+                                                    >Купить</a>
+                                                </li>
+                                            
+                                                                                                                                    <li class="">
+                                                    <a class="link-secondary text-decoration-none"
+                                                       title="Разработчикам"
+                                                       href="https://www.online-convert.com/ru/developer"
+                                                    >Разработчикам</a>
+                                                </li>
+                                            
+                                        
+                                    </ul>
+                                </div>
+                                                                        </div>
+                </div>
+            </div>
+        </div>
+    
+                                
+                <div class="bg-white border-top">
+            <div class="container">
+                <div class="row">
+                    <div class="d-none d-sm-block">
+                            <ul class="list-unstyled breadcrumbs-one">
+        <li>
+            <a href="https://www.online-convert.com/ru"
+               title="Домой"
+            >
+                <i class="fa fa-home"></i>
+            </a>
+        </li>
+                                    <li>
+                    <a
+                            href="https://www.online-convert.com/ru/file-type"
+                            title="Список форматов файлов"
+                    >
+                        Список форматов файлов
+                    </a>
+                </li>
+                                                <li>
+                    <a
+                            href="https://www.online-convert.com/ru/file-format/url"
+                            title="Файлы URL: что нужно знать о таких файлах?"
+                    >
+                        Файлы URL: что нужно знать о таких файлах?
+                    </a>
+                </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+    <div class="border-top pt-3 pb-3 ">
+        <div class="container">
+            <div class="p-3 footer">
+
+                <div class="row">
+                    <div class="no-padding col-12 col-md-3">
+                        <p class="text-muted mb-3 w-100 text-center text-md-left">Сделано в Радольфцелле (Германия)
+                            <a
+                                    href="https://www.qaamgo.com"
+                                    title="Visit QaamGo Web GmbH"
+                                    class="font-weight-bold text-green">QaamGo Web GmbH</a>
+                        </p>
+                    </div>
+
+                    <div class="col-12 col-md-9 col-lg-9">
+                        <div class="w-100 d-flex justify-content-center justify-content-md-end white-space-nowrap flex-wrap text-right align-items-start">
+                                                                                                                                <a
+                                            class="mb-3 mx-3"
+                                            title="Условия использования"
+                                            href="https://www.online-convert.com/ru/terms"
+                                    >Условия использования
+                                    </a>
+                                                                                                                                                                <a
+                                            class="mb-3 mx-3"
+                                            title="Политика конфиденциальности"
+                                            href="https://www.online-convert.com/ru/privacy"
+                                    >Политика конфиденциальности
+                                    </a>
+                                                                                                                                                                <a
+                                            class="mb-3 mx-3"
+                                            title="Данные о компании"
+                                            href="https://www.online-convert.com/imprint"
+                                    >Данные о компании
+                                    </a>
+                                                                                                                                                                <button
+                                            class="mb-3 mx-3 footer-contact-us border-0"
+                                            title="Контакты"
+                                    >Контакты
+                                    </button>
+                                                            
+                                                            <div class="btn-group">
+                                    <button type="button" class="mx-3 btn no-padding dropdown-toggle"
+                                            data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        RU <i class="fa fa-globe"></i>
+                                    </button>
+                                    <div class="main-language-dropdown dropdown-menu w-100 language-selector col-md-12">
+                                        <div class="container ">
+                                            
+
+    
+<div class="row">
+    <div class="col-md-6 no-padding">
+        <ul class="list-unstyled no-margin w-100">
+                                                                                                            <li class="rounded cursor-pointer text-indent-05">
+                        <a class="pd-1 pr-2 d-block language-selector-link font-weight-normal"
+                           href="https://www.online-convert.com/file-format/url"
+                           title="Change language to English"
+                        >English</a>
+                    </li>
+
+                                                                                                                            <li class="rounded cursor-pointer text-indent-05">
+                        <a class="pd-1 pr-2 d-block language-selector-link font-weight-normal"
+                           href="https://www.online-convert.com/fr/format-fichier/url"
+                           title="Changer la langue vers le français"
+                        >Français</a>
+                    </li>
+
+                                                                                                                                                                                    <li class="rounded cursor-pointer text-indent-05">
+                        <a class="pd-1 pr-2 d-block language-selector-link font-weight-normal"
+                           href="https://www.online-convert.com/de/datei-format/url"
+                           title="Sprache zu Deutsch ändern"
+                        >Deutsch</a>
+                    </li>
+
+                                                                    </ul>
+                        </div>
+                        <div class="col-md-6 no-padding">
+                            <ul class="list-unstyled no-margin w-100">
+                                                                                                        <li class="rounded cursor-pointer text-indent-05">
+                        <a class="pd-1 pr-2 d-block language-selector-link font-weight-normal"
+                           href="https://www.online-convert.com/es/formato-de-archivo/url"
+                           title="Cambiar idioma a Español"
+                        >Español</a>
+                    </li>
+
+                                                                                                                                                        <li class="rounded cursor-pointer text-indent-05 active">
+                        <a class="pd-1 pr-2 d-block language-selector-link font-weight-normal font-weight-bold"
+                           href="https://www.online-convert.com/ru/file-format/url"
+                           title="Изменить язык на русский"
+                        >Pусский</a>
+                    </li>
+
+                                                                                                                                                                </ul>
+    </div>
+</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+<script>
+        window.sat = {
+        enableFreeTrial: false,
+        enableUserModalFlow: true,
+        enableContactUsOsTicket: true,
+        enableVueUploaderFileList: true,
+        enableWeekPass: false,
+        enableRegionalPricing: false,
+        enableCredits: true,
+        enableCreditsInAllSats: true,
+        enableMultipleProducts: false,
+        enableReputationRating: true,
+        enableTeams: false,
+        supportEmailCrypto: 'nbjmup;ujnf3ifmqApomjof.dpowfsu/dpn',
+        env: 'prod',
+        project_name: 'Online-Convert',
+        statusCode: 200,
+        locale: 'ru',
+        pricing: 'https://www.online-convert.com/ru/pricing',
+        modal: false,
+        apiUrl: 'https://dragon.online-convert.com',
+        mainUrl: 'https://www.online-convert.com',
+        accountUrl: 'https://account.online-convert.com',
+        privacyUrl: 'https://www.online-convert.com/ru/privacy',
+        adTechUrl: 'https://www.online-convert.com/ad-provider',
+        googleClientId: '618319434088-bekdcu0097dq1rtni00iulbj6u98g66g.apps.googleusercontent.com',
+        disableOneTap: false,
+        loginUrl: 'https://www.online-convert.com/ru/login',
+        resultUrl: 'https://www.online-convert.com/ru/result',
+        registerUrl: 'https://www.online-convert.com/ru/register',
+        termsUrl: 'https://www.online-convert.com/ru/terms',
+        imprintUrl: 'https://www.online-convert.com/imprint',
+        educationUrl: 'https://www.online-convert.com/ru/solution/education',
+        educationClaimUrl: 'https://account.online-convert.com/ru/user/claim-educational',
+        educationImageAssetUrl: 'https://www.online-convert.com/assets/dist/img/exam.479cc82b.svg',
+        googleIcon: 'https://www.online-convert.com/assets/dist/img/google-icon.125eaef7.svg',
+        appleIcon: 'https://www.online-convert.com/assets/dist/img/apple-icon.8a8867d6.svg',
+        microsoftIcon: 'https://www.online-convert.com/assets/dist/img/microsoft-icon.72f0fcc7.svg',
+        cookieDomain: '.online-convert.com',
+        gdpr_download: 'https://www.online-convert.com/assets/pdf/online_convert_data_processing_agreement.pdf',
+        gdpr_download_de: 'https://www.online-convert.com/assets/pdf/online_convert_auftragsverarbeitung_vertrag.pdf',
+        baseDomain: 'online-convert.com',
+        gRecaptchaSitekey: '6LffXAEVAAAAALzx1EprBmOWY2Oroez3cmcEhihp',
+        gdriveConfig: {
+            clientId: '618319434088-bekdcu0097dq1rtni00iulbj6u98g66g.apps.googleusercontent.com',
+            appId: '618319434088',
+            developerKey: 'AIzaSyALrPJLp1tEeHDzHnv5cAXg27GRnpTylzY',
+            scope: 'https://www.googleapis.com/auth/drive.file'
+        },
+        onedriveConfig: {
+            clientId: '408737fa-5390-4447-9a51-18b573f22509',
+            scope: 'Files.ReadWrite.All'
+        },
+        dropboxKey: 'pf1mxq4wcloesth',
+        analytics: {
+            baseDomain: 'online-convert.com',
+            cb: '7f264b582',
+            matomo: {
+                site_id: '1'
+            },
+            google: {
+                ua: 'G-HJQSZ9Y8DY'
+            }
+        },
+        browserExtension: {
+            chrome: 'https://chrome.google.com/webstore/detail/file-converter-by-online/dicgkflojhbopmagcacdklcpdfdcnhko',
+            firefox: 'https://addons.mozilla.org/en-US/firefox/addon/online-convert/',
+            edge: 'https://microsoftedge.microsoft.com/addons/detail/file-converter-by-onlin/gieflphfabklgnpjlaedlcpkcmggjago'
+        },
+                useUploaderBoxForLimits: false,
+        pageLogoUrl: 'https://www.online-convert.com/assets/img/oc_logo_grey_font_like_sat.svg',
+        userMenuMobile: [],
+        localePages: [{
+            locale: 'en',
+            url: 'https://www.online-convert.com/file-format/url',
+            message: 'Switch language to English',
+            btn_yes: 'Yes',
+            btn_no: 'No',
+        },            {
+            locale: 'de',
+            url: 'https://www.online-convert.com/de/datei-format/url',
+            message: 'Sprache auf Deutsch wechseln',
+            btn_yes: 'Ja',
+            btn_no: 'Nein',
+        },            {
+            locale: 'es',
+            url: 'https://www.online-convert.com/es/formato-de-archivo/url',
+            message: 'Cambiar idioma a Español',
+            btn_yes: 'Sí',
+            btn_no: 'No',
+        },            {
+            locale: 'fr',
+            url: 'https://www.online-convert.com/fr/format-fichier/url',
+            message: 'Passez la langue en Français',
+            btn_yes: 'Oui',
+            btn_no: 'Non',
+        },            {
+            locale: 'ru',
+            url: 'https://www.online-convert.com/ru/file-format/url',
+            message: 'Переключить язык на Pусский',
+            btn_yes: 'Да',
+            btn_no: 'Нет',
+        }                    ],
+        register_success: 'https://account.online-convert.com/ru/register-success',
+        subscribe_success: 'https://account.online-convert.com/ru/subscribe-success',
+        subscribe: 'https://dragon.online-convert.com/api/tpl/subscribe',
+        stripe_pk: 'pk_live_ClJ0LeyKDXbuP8ZPX7jXnNVl002BnP1zxD',
+        registerResend: 'https://dragon.online-convert.com/api/ru/register-resend',
+        user_dashboard: 'https://account.online-convert.com/ru/user/dashboard',
+        helpUrl: 'https://www.online-convert.com/ru/help',
+        sdsn: 'https://8950de957466f80d355c5ed306e2ab51@firefly.online-convert.com/2',
+        senv: 'prod_web1'
+    };
+
+            try {
+            window.sat.trustLogos = JSON.parse('\u005B\u007B\u0022img\u0022\u003A\u0022https\u003A\\\/\\\/www.online\u002Dconvert.com\\\/assets\\\/dist\\\/img\\\/trust_logos\\\/amazon_logo_gray_dark.b6b96b04.svg\u0022,\u0022name\u0022\u003A\u0022Amazon\u0022,\u0022scale\u0022\u003A3\u007D,\u007B\u0022img\u0022\u003A\u0022https\u003A\\\/\\\/www.online\u002Dconvert.com\\\/assets\\\/dist\\\/img\\\/trust_logos\\\/uber_logo_gray_dark.bb78e691.svg\u0022,\u0022name\u0022\u003A\u0022Uber\u0022,\u0022scale\u0022\u003A2.25\u007D,\u007B\u0022img\u0022\u003A\u0022https\u003A\\\/\\\/www.online\u002Dconvert.com\\\/assets\\\/dist\\\/img\\\/trust_logos\\\/ikea_logo_gray_dark.3eb11c76.svg\u0022,\u0022name\u0022\u003A\u0022Ikea\u0022,\u0022scale\u0022\u003A2.5\u007D,\u007B\u0022img\u0022\u003A\u0022https\u003A\\\/\\\/www.online\u002Dconvert.com\\\/assets\\\/dist\\\/img\\\/trust_logos\\\/facebook_logo_gray_dark.47ac70bf.svg\u0022,\u0022name\u0022\u003A\u0022Facebook\u0022,\u0022scale\u0022\u003A1.75\u007D,\u007B\u0022img\u0022\u003A\u0022https\u003A\\\/\\\/www.online\u002Dconvert.com\\\/assets\\\/dist\\\/img\\\/trust_logos\\\/berkeley_logo_gray_dark.f11090f7.svg\u0022,\u0022name\u0022\u003A\u0022UC\u0020Berkeley\u0022,\u0022scale\u0022\u003A2.5\u007D\u005D');
+        } catch (e) {}
+    
+    
+    
+    
+    
+    window.sat.toolsUrl = 'https://www.online-convert.com/ru';
+
+    
+            window.sat.ratingCapterraUrl = '';
+        window.sat.ratingG2Url = 'https://www.g2.com/products/online-convert-com/reviews';
+        window.sat.ratingGoogleUrl = 'https://g.page/r/CbNhm2c_RO5fEBM/review';
+    
+</script>
+
+    <script>
+        var qgLoggerOptions = {
+            url: 'https://dragon.online-convert.com/api/z',
+            cors: true
+        };
+    </script>
+
+    <script>
+        var _paq = _paq || [];
+        _paq.push(["setCookieDomain", "*.online-convert.com"]);
+        _paq.push(["setDomains", ["*.online-convert.com"]]);
+        _paq.push(['trackPageView']);
+        _paq.push(['enableLinkTracking']);
+        _paq.push(['setSecureCookie', true]);
+        (function() {
+            var u="//stats.online-convert.com/piwik/";
+            var v="//stats.online-convert.com/piwik/matomo-7f264b582.js";
+            _paq.push(['setTrackerUrl', u+'piwik.php']);
+            _paq.push(['setSiteId', '1']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=v; s.parentNode.insertBefore(g,s);
+        })();
+    </script>
+    <noscript><p><img src="//stats.online-convert.com/piwik/piwik.php?idsite=1&amp;rec=1" style="border:0;" alt="Piwik" ></p></noscript>
+
+        <script>
+        var gaProperty = 'G-HJQSZ9Y8DY';
+        var disableStr = 'ga-disable-' + gaProperty;
+
+        if (document.cookie.indexOf(disableStr + '=true') > -1) {
+            window[disableStr] = true;
+        }
+
+        var cookieDomain = location.hostname.split('.').reverse()[1] + '.' + location.hostname.split('.').reverse()[0];
+
+        function gaOptout() {
+            document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; domain=.' + cookieDomain + '; path=/';
+            window[disableStr] = true;
+        }
+    </script>
+
+        
+        <script>
+        if (sessionStorage.getItem('PLAYWRIGHT') !== 'true') {
+        [
+            'https://www.googletagmanager.com/gtag/js?id=G-HJQSZ9Y8DY',
+        ].forEach(function(src) {
+            var script = document.createElement('script');
+            script.src = src;
+            script.async = false;
+            document.head.appendChild(script);
+        });
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-HJQSZ9Y8DY', {
+            'anonymize_ip': true,
+            'cookie_domain': '.online-convert.com'
+        });
+        }
+    </script>
+    
+<div id="qg-modal-container">
+	<div id="qg-modal"></div>
+</div>
+
+<div id="qg-toast-container">
+    <div id="qg-toast"></div>
+</div>
+            <script src="https://www.online-convert.com/assets/dist/runtime.c8235413.js" defer></script>
+            <script src="https://www.online-convert.com/assets/dist/1292.d29ca412.js" defer></script>
+            <script src="https://www.online-convert.com/assets/dist/2526.96b00da7.js" defer></script>
+            <script src="https://www.online-convert.com/assets/dist/4645.4a51b435.js" defer></script>
+            <script src="https://www.online-convert.com/assets/dist/3362.df690bd6.js" defer></script>
+            <script src="https://www.online-convert.com/assets/dist/4800.677efb40.js" defer></script>
+            <script src="https://www.online-convert.com/assets/dist/4631.b6ccb1ed.js" defer></script>
+            <script src="https://www.online-convert.com/assets/dist/9280.dff3e3d7.js" defer></script>
+            <script src="https://www.online-convert.com/assets/dist/703.74ef7cd7.js" defer></script>
+            <script src="https://www.online-convert.com/assets/dist/1957.32f794ba.js" defer></script>
+            <script src="https://www.online-convert.com/assets/dist/qg-tech-a-d.9d36b075.js" defer></script>
+                <script src="https://www.online-convert.com/assets/dist/6510.d73cc79a.js" defer></script>
+            <script src="https://www.online-convert.com/assets/dist/9347.fa1214ee.js" defer></script>
+            <script src="https://www.online-convert.com/assets/dist/8258.9354373b.js" defer></script>
+            <script src="https://www.online-convert.com/assets/dist/392.e7dc35bc.js" defer></script>
+            <script src="https://www.online-convert.com/assets/dist/1118.4c9a6e15.js" defer></script>
+            <script src="https://www.online-convert.com/assets/dist/2201.f2c803d3.js" defer></script>
+            <script src="https://www.online-convert.com/assets/dist/2442.550eaa49.js" defer></script>
+            <script src="https://www.online-convert.com/assets/dist/6287.7a8445ed.js" defer></script>
+            <script src="https://www.online-convert.com/assets/dist/6117.c8a22844.js" defer></script>
+            <script src="https://www.online-convert.com/assets/dist/7945.289baec2.js" defer></script>
+            <script src="https://www.online-convert.com/assets/dist/1686.e7d4eeb5.js" defer></script>
+            <script src="https://www.online-convert.com/assets/dist/qg-knowledge.731319b6.js" defer></script>
+    </body>
+</html>
